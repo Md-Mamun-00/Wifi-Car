@@ -107,7 +107,7 @@ Once code is uploaded once, further updates can be done wirelessly:
 ---
 
 ## 📱App Controls
-![something](/storage/emulated/0/Alarms/diagram.jpg)
+![something](diagram.jpg)
 
 ---
 
