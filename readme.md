@@ -1,7 +1,7 @@
 # 🤖 WiFi + Object Following Robot using NodeMCU, L298N, and HC-SR04
 
 This project allows you to control a 4-wheel robot over WiFi using your custom mobile app. It also includes an object-following autonomous mode using the HC-SR04 ultrasonic sensor.
-
+![20251006_213617.jpg](Img-Assets/20251006_213617.jpg)
 ---
 
 ## Features:
