@@ -50,7 +50,7 @@ This project allows you to control a 4-wheel robot over WiFi using your custom m
 | Echo     | Echo       | D8          |
 | Power    | VCC        | 3V          |
 | Ground   | GND        | GND         |
-
+> if you use **4 motors** , then add the 2 motors at **motor A** and 2 motors at **motor B**
 ---
 
 ## 🧪 Library Installation 
